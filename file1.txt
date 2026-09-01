@@ -1,3 +1,4 @@
 First line of File1 
 Second line of File1 done 
 Second line of File1 done 
+Soft reset example 
